@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [...update soon](...update soon)
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **coding skills**
 
 - 📫 How to reach me **nluit.tanloc@gmail.com**
 
